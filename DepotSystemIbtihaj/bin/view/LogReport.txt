@@ -1,0 +1,27 @@
+Action: ManagerGUI initialized.
+Action: Customer List loaded.
+Action: Parcel List loaded.
+Action: Setting up the initial Management System Dashboard.
+Action: Buttons added on the top of the panel.
+Action: Adding the parcel buttons to the top panel
+Action: Adding the parcel buttons to the top panel
+Action: Add headings to the table for the parcel view.
+Action: Adding the list of parcels in the table.
+Action: Adding the text fields.
+Action: Adding the labels for the text fields.
+Action: Parcel added successfully.
+Action: Adding the parcel buttons to the top panel
+Action: Add headings to the table for the parcel view.
+Action: Adding the list of parcels in the table.
+Action: Adding the cusomter buttons to the top panel
+Action: Loading the csv file.
+Action: Adding the text fields for the customer addition.
+Action: Adding the labels for the text fields.
+Action: adding the Add button.
+!ERROR!: ParcelId does not exist.
+Action: adding the customer to the queue.
+Action: Adding the cusomter buttons to the top panel
+Action: Loading the csv file.
+Action: Customer added: Sar adad with Parcel ID: X777
+Action: Adding the cusomter buttons to the top panel
+Action: Loading the csv file.

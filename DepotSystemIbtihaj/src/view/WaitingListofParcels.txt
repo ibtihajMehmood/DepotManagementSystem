@@ -1,0 +1,34 @@
+Waiting List of Parcels
+=========================
+Parcel ID: X746, Weight: 4.0, Width: 4.0, Length: 9.0, Height: 5.0, Days in Depo: 7, Status: Collecting
+Parcel ID: X309, Weight: 1.0, Width: 2.0, Length: 8.0, Height: 5.0, Days in Depo: 11, Status: Collecting
+Parcel ID: X507, Weight: 5.0, Width: 3.0, Length: 9.0, Height: 8.0, Days in Depo: 13, Status: Collecting
+Parcel ID: X606, Weight: 8.0, Width: 8.0, Length: 4.0, Height: 2.0, Days in Depo: 13, Status: Collecting
+Parcel ID: X904, Weight: 4.0, Width: 1.0, Length: 4.0, Height: 9.0, Days in Depo: 15, Status: Collecting
+Parcel ID: X198, Weight: 9.0, Width: 4.0, Length: 8.0, Height: 0.0, Days in Depo: 10, Status: Collecting
+Parcel ID: X475, Weight: 4.0, Width: 3.0, Length: 8.0, Height: 1.0, Days in Depo: 11, Status: Collecting
+Parcel ID: X552, Weight: 4.0, Width: 5.0, Length: 7.0, Height: 8.0, Days in Depo: 12, Status: Collecting
+Parcel ID: X036, Weight: 8.0, Width: 4.0, Length: 6.0, Height: 9.0, Days in Depo: 12, Status: Collecting
+Parcel ID: X278, Weight: 5.0, Width: 3.0, Length: 1.0, Height: 0.0, Days in Depo: 11, Status: Collecting
+Parcel ID: X213, Weight: 4.0, Width: 8.0, Length: 5.0, Height: 2.0, Days in Depo: 15, Status: Collecting
+Parcel ID: X214, Weight: 1.0, Width: 8.0, Length: 1.0, Height: 1.0, Days in Depo: 15, Status: Collecting
+Parcel ID: X733, Weight: 6.0, Width: 6.0, Length: 5.0, Height: 7.0, Days in Depo: 11, Status: Collecting
+Parcel ID: X919, Weight: 5.0, Width: 8.0, Length: 7.0, Height: 4.0, Days in Depo: 10, Status: Collecting
+Parcel ID: X316, Weight: 9.0, Width: 5.0, Length: 4.0, Height: 0.0, Days in Depo: 11, Status: Collecting
+Parcel ID: X857, Weight: 2.0, Width: 6.0, Length: 6.0, Height: 3.0, Days in Depo: 9, Status: Collecting
+Parcel ID: X121, Weight: 3.0, Width: 7.0, Length: 2.0, Height: 3.0, Days in Depo: 6, Status: Collecting
+Parcel ID: X682, Weight: 3.0, Width: 6.0, Length: 4.0, Height: 4.0, Days in Depo: 12, Status: Collecting
+Parcel ID: X386, Weight: 9.0, Width: 1.0, Length: 6.0, Height: 5.0, Days in Depo: 9, Status: Collecting
+Parcel ID: X540, Weight: 9.0, Width: 2.0, Length: 5.0, Height: 4.0, Days in Depo: 5, Status: Collecting
+Parcel ID: X782, Weight: 5.0, Width: 3.0, Length: 2.0, Height: 7.0, Days in Depo: 12, Status: Collecting
+Parcel ID: X025, Weight: 7.0, Width: 1.0, Length: 4.0, Height: 9.0, Days in Depo: 9, Status: Collecting
+Parcel ID: X521, Weight: 6.0, Width: 4.0, Length: 4.0, Height: 4.0, Days in Depo: 8, Status: Collecting
+Parcel ID: X720, Weight: 4.0, Width: 2.0, Length: 1.0, Height: 3.0, Days in Depo: 8, Status: Collecting
+Parcel ID: X020, Weight: 1.0, Width: 1.0, Length: 6.0, Height: 4.0, Days in Depo: 14, Status: Collecting
+Parcel ID: X064, Weight: 8.0, Width: 4.0, Length: 1.0, Height: 8.0, Days in Depo: 15, Status: Collecting
+Parcel ID: X086, Weight: 7.0, Width: 4.0, Length: 1.0, Height: 7.0, Days in Depo: 13, Status: Collecting
+Parcel ID: X285, Weight: 1.0, Width: 4.0, Length: 3.0, Height: 1.0, Days in Depo: 10, Status: Collecting
+Parcel ID: X780, Weight: 4.0, Width: 1.0, Length: 2.0, Height: 5.0, Days in Depo: 12, Status: Collecting
+Parcel ID: X777, Weight: 7.0, Width: 7.0, Length: 7.0, Height: 7.0, Days in Depo: 7, Status: Collecting
+
+Total Parcels Waiting for Collection: 30
